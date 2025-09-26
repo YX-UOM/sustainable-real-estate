@@ -1,15 +1,22 @@
 # sustainable-real-estate
 AI-Powered Sustainability Regulatory Compliance Platform for Real Estate
 Overview
+
 An artificial intelligence platform specifically designed for property companies and real estate asset managers to achieve compliance with EU sustainability regulations (SFDR, EU Taxonomy, CSRD) while providing actionable insights for environmental performance improvement.
+
 Problem Statement
 The European real estate sector faces unprecedented regulatory complexity with sustainability compliance:
 
 73% of real estate fund managers report insufficient ESG data quality (INREV 2024)
+
 24,000+ pages of EU Taxonomy documentation requiring navigation
+
 40-60 hours/month of manual data input for compliance
+
 6-8 months annual compliance preparation time
+
 £200k-500k estimated annual compliance costs for mid-size property funds
+
 
 Technical Innovation
 Core AI Components
@@ -29,9 +36,13 @@ Annual compliance preparation: 6-8 months → 2-4 weeks
 Regulatory Framework Coverage
 
 EU Taxonomy Regulation (2020/852) - Real Estate Technical Screening Criteria
+
 SFDR Regulation (2019/2088) - Principal Adverse Impacts for Real Estate
+
 Corporate Sustainability Reporting Directive (CSRD) - Double Materiality Requirements
+
 European Energy Performance of Buildings Directive (EPBD)
+
 
 Target Market
 Primary Customers:
