@@ -58,13 +58,17 @@ This platform builds upon peer-reviewed academic research in sustainable real es
 Published Research
 
 Xu, Y., Luo, M., and Yiu, K., (forthcoming). PropTech Innovations in Real Estate Investment and Finance: Sustainable Futures, Taylor & Francis Group
+
 Nakavachara, V. and Xu, Y., (2025). Board Gender Diversity and Environmental Practice in Global REITs, Journal of Sustainable Real Estate, 17(1)
+
 Ding, D., & Xu, Y. (2024). Path to Net Zero: Understanding Building Energy Efficiency, Highlights of Sustainability, 3(3), 308-337
 
 Work in Progress
 
 Machine Learning for Corporate Carbon Emission Intensity Prediction (under review)
+
 Using LLMs to Detect Greenwashing (working paper)
+
 
 Repository Structure
 ├── docs/                           # Documentation and research
@@ -122,16 +126,25 @@ Development Status
 Current Stage: Conceptual with comprehensive market research completed
 
 ✅ Preliminary algorithm design for EU Taxonomy mapping
+
 ✅ Technical architecture framework defined
+
 🔄 Core AI module development in progress
+
 ⏳ MVP development planned
+
 ⏳ Pilot program establishment
 
 Academic Collaboration
+
 This project is developed at the University of Manchester, Department of Planning, Property and Environmental Management, School of Environment, Education & Development (SEED).
+
 Principal Investigator: Dr. Yishuang Xu
+
 Institution: University of Manchester
+
 Research Focus: Sustainable Real Estate, PropTech Innovation, ESG in Real Estate Investment
+
 Contributing
 We welcome contributions from:
 
